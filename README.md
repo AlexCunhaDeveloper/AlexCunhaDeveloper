@@ -1,4 +1,4 @@
-### Hi there 👋
+### Alex Cunha 👋
 
 <!--
 **AlexCunhaDeveloper/AlexCunhaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
