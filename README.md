@@ -1,5 +1,8 @@
 ### Alex Cunha 
-#### Analista de sistena - PD Case
+**Analista de sistena - PD Case**
+
+:mortar_board: **Ciência da Computação**
+
 
 
 <!--
