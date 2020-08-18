@@ -1,5 +1,5 @@
 ### Alex Cunha 
-:bank: **Analista de sistena - PD Case**
+:bank: **Analista de sistemas - PD Case**
 
 :mortar_board: **Ciência da Computação**
 
